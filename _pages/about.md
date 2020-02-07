@@ -23,7 +23,6 @@ Teaching assistant, General Physics II, Fall 2019.
 Teaching assistant, General Physics I, Spring 2019.
 
 |>|
-A|B
----|---
-C|D
+||A|B|
+||C|D|
 |>|
