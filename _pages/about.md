@@ -15,6 +15,8 @@ Complexity in Social System Lab.
 B.S., Physics, 2015 - 2019.
 
 
+
+
 ## Teaching Experiences
 ### Department of Physics, Postech
 Teaching assistant, General Physics II, Fall 2019.  
