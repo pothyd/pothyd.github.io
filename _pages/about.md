@@ -9,7 +9,7 @@ date: 2020-02-07T12:00:00+09:00
 <table>
   <tr valign="top">
     <td>
-                                
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>  
     <td>
     </td>
@@ -18,7 +18,7 @@ date: 2020-02-07T12:00:00+09:00
   <tr valign="top">
     <td>
       <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;color: #9D9873;">
-        2019 - Present<br><br>
+        2019 - Present<br>&nbsp;<br>&nbsp;
       </span>
     </td>  
     <td>
@@ -35,7 +35,7 @@ date: 2020-02-07T12:00:00+09:00
   <tr valign="top">
     <td>
       <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;color: #9D9873;">
-        2015 - 2019<br>
+        2015 - 2019<br>&nbsp;
       </span>
     </td>  
     <td>
@@ -55,7 +55,7 @@ date: 2020-02-07T12:00:00+09:00
 <table>
   <tr valign="top">
     <td>
-                                
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>  
     <td>
     </td>
@@ -64,7 +64,7 @@ date: 2020-02-07T12:00:00+09:00
   <tr valign="top">
     <td>
       <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;color: #9D9873;">
-        2019 - 2020<br><br>
+        2019 - 2020<br>&nbsp;<br>&nbsp;
       </span>
     </td>  
     <td>
