@@ -5,6 +5,15 @@ date: 2020-02-07T12:00:00+09:00
 ---
 
 ## Educations
+<table>
+  <tr>
+    <td><span style=" font: bold 1.5em/1em; color: #76C8E2"2019 - Present</span></td>  
+    <td><b>Postech</b></td>
+  </tr>
+  
+</table>
+
+
 ### 2019 - Present
 #### Pohang University of Science and Technology
 &nbsp;<sup>Ph.D., Physics (Advisor: Woo-Sung Jung).  
