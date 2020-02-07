@@ -24,12 +24,13 @@ Teaching assistant, General Physics I, Spring 2019.
 
 <table>
   <tr>
-    <td>
-      Educations
-    </td>  
-    
-    <td>
-      
-    </td>
+    <td>Educations</td>  
+    <td></td>
   </tr>
+  
+  <tr>
+    <td>2019 - Present</td>  
+    <td>Postech</td>
+  </tr>
+  
 </table>
