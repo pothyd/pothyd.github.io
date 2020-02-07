@@ -24,6 +24,22 @@ date: 2020-02-07T12:00:00+09:00
     </td>
   </tr>
   
+  <tr>
+    <td valign="top">
+      <span style= "font-weight: bold; font-size: 1.5em; line-height: 1.0em;color: #9D9873;">
+        2015 - 2019
+      </span>
+    </td>  
+    <td valign="top">
+      <span style= "font-weight: bold; font-size: 1.5em; line-height: 1.0em;">
+        Pohang University of Science and Technology<br>
+      </span>
+      <span style= "font: 1.5em/1em;">
+        B.S., Physics <br>
+      </span>
+    </td>
+  </tr>
+  
 </table>
 
 
