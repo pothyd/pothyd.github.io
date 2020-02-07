@@ -7,8 +7,8 @@ date: 2020-02-07T12:00:00+09:00
 ## Educations
 ### 2019 - Present
 #### Pohang University of Science and Technology
-&nbsp;<sub>Ph.D., Physics (Advisor: Woo-Sung Jung).  
-Complexity in Social System Lab.<\sub>
+&nbsp;<sup>Ph.D., Physics (Advisor: Woo-Sung Jung).  
+&nbsp;Complexity in Social System Lab.
 
 ### 2015 - 2019
 #### Pohang University of Science and Technology
