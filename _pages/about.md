@@ -12,6 +12,7 @@ date: 2020-02-07T12:00:00+09:00
     <td valign="top">
       <span style= "font: bold 1.5em/1em;">Pohang University of Science and Technology</span><br>
       <span style= "font: 1.5em/1em;">Ph.D., Physics (Advisor: Woo-Sung Jung).</span>
+      <span style= "font: 1.5em/1em;">Complexity in Social System Lab.</span>
     </td>
   </tr>
   
