@@ -7,13 +7,13 @@ date: 2020-02-07T12:00:00+09:00
 ## Educations
 
 <table>
-  <tr>
-    <td valign="top">
+  <tr valign="top">
+    <td>
       <span style= "font-weight: bold; font-size: 1.2em; line-height: 1.0em;color: #9D9873;">
         2019 - Present
       </span>
     </td>  
-    <td valign="top">
+    <td>
       <span style= "font-weight: bold; font-size: 1.2em; line-height: 1.0em;">
         Pohang University of Science and Technology<br>
       </span>
@@ -24,13 +24,13 @@ date: 2020-02-07T12:00:00+09:00
     </td>
   </tr>
   
-  <tr>
-    <td valign="top">
+  <tr valign="top">
+    <td>
       <span style= "font-weight: bold; font-size: 1.2em; line-height: 1.0em;color: #9D9873;">
         2015 - 2019
       </span>
     </td>  
-    <td valign="top">
+    <td>
       <span style= "font-weight: bold; font-size: 1.2em; line-height: 1.0em;">
         Pohang University of Science and Technology<br>
       </span>
@@ -45,13 +45,13 @@ date: 2020-02-07T12:00:00+09:00
 ## Teaching Experiences
 
 <table>
-  <tr>
-    <td valign="top">
+  <tr valign="top">
+    <td>
       <span style= "font-weight: bold; font-size: 1.3em; line-height: 1.0em;color: #9D9873;">
         2019
       </span>
     </td>  
-    <td valign="top">
+    <td>
       <span style= "font-weight: bold; font-size: 1.3em; line-height: 1.0em;">
         Department of Physics, Postech<br>
       </span>
