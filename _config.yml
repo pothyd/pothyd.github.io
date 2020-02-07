@@ -109,10 +109,7 @@ analytics:
 author:
   name             : "Oh-Hyun Kwon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : |
-  Ph.D. Student. 
-  Pohang University of Science and Technology.
-  Complex system, Data science
+  bio              : "Ph.D. Student.\nPohang University of Science and Technology.\nComplex system, Data science"
   location         : "Pohang, South Korea"
   email            : "ohhyun@postech.ac.kr"
   links:
