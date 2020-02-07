@@ -8,8 +8,8 @@ date: 2020-02-07T12:00:00+09:00
 
 <table>
   <tr>
-    <td><span style= "font: bold 1.5em/1em; color: #9D9873;">2019 - Present</span></td>  
-    <td>
+    <td valign="top"><span style= "font: bold 1.5em/1em; color: #9D9873;">2019 - Present</span></td>  
+    <td valign="top">
       <span style= "font: bold 1.5em/1em;">Pohang University of Science and Technology</span><br>
       <span style= "font: 1.5em/1em;">Ph.D., Physics (Advisor: Woo-Sung Jung).</span>
     </td>
