@@ -17,7 +17,7 @@ date: 2020-02-07T12:00:00+09:00
   <tr valign="top">
     <td>
       <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;color: #9D9873;">
-        2019 - Present
+        2019 - Present<br><br>
       </span>
     </td>  
     <td>
@@ -34,7 +34,7 @@ date: 2020-02-07T12:00:00+09:00
   <tr valign="top">
     <td>
       <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;color: #9D9873;">
-        2015 - 2019
+        2015 - 2019<br>
       </span>
     </td>  
     <td>
@@ -55,7 +55,7 @@ date: 2020-02-07T12:00:00+09:00
   <tr valign="top">
     <td>
       <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;color: #9D9873;">
-        2019 - 2020
+        2019 - 2020<br><br>
       </span>
     </td>  
     <td>
