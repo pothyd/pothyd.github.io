@@ -30,7 +30,7 @@ Teaching assistant, General Physics I, Spring 2019.
   
   <tr>
     <td><b>2019 - Present</b></td>  
-    <td><b>Postech<b/></td>
+    <td><b>Postech</b></td>
   </tr>
   
 </table>
