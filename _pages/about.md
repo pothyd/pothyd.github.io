@@ -63,7 +63,7 @@ date: 2020-02-07T12:00:00+09:00
   <tr valign="top">
     <td>
       <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;color: #9D9873;">
-        2019<br>&nbsp;<br>&nbsp;
+        2019 - 2020<br>&nbsp;<br>&nbsp;<br>&nbsp;
       </span>
     </td>  
     <td>
@@ -71,6 +71,7 @@ date: 2020-02-07T12:00:00+09:00
         Department of Physics, Postech<br>
       </span>
       <span style= "font: 1.5em/1em;">
+        Teaching assistant, Physics Lab. II, Spring 2020.<br>
         Teaching assistant, General Physics II, Fall 2019.<br>
         Teaching assistant, General Physics I, Spring 2019.
       </span>
