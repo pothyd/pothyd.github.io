@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Posts"
-    url: /year-archive/
+    url: /categories/
   - title: "Contacts"
     url: /contact/
   - title: "Sitemap"
