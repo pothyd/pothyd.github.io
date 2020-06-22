@@ -43,7 +43,7 @@ date: 2020-02-07T12:00:00+09:00
         Pohang University of Science and Technology<br>
       </span>
       <span style= "font: 1.5em/1em;">
-        B.S., Physics <br>
+        B.S., Physics. <br>
       </span>
     </td>
   </tr>
