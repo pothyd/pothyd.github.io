@@ -68,7 +68,7 @@ date: 2020-02-07T12:00:00+09:00
     </td>  
     <td>
       <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;">
-        Department of Physics, Postech<br>
+        Department of Physics, POSTECH<br>
       </span>
       <span style= "font: 1.5em/1em;">
         Teaching assistant, Physics Lab. II, Spring 2020.<br>
