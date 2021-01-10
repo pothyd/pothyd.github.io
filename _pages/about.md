@@ -7,8 +7,7 @@ date: 2021-01-11T12:00:00+09:00
 
 
 ## Educations
-<table border=1 frame=hsides rules=rows>
-  
+<table>  
   <tr valign="top">
     <td>
       <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;">
@@ -24,6 +23,10 @@ date: 2021-01-11T12:00:00+09:00
         Complexity in Social System Lab.
       </span>
     </td>
+  </tr>
+  
+  <tr>
+    <td class="divider"><hr /></td>
   </tr>
   
   <tr valign="top">
