@@ -16,7 +16,6 @@ date: 2021-01-11T12:00:00+09:00
     }
     th, td {
       border-bottom: 1px solid #000000;
-      padding: 10px;
     }
   </style>
   
