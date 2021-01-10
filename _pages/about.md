@@ -4,21 +4,21 @@ permalink: /about/
 date: 2021-01-11T12:00:00+09:00
 ---
 
-<style>
-  table {
-    width: 100%;
-    border-top: 1px solid #444444;
-    border-collapse: collapse;
-  }
-  th, td {
-    border-bottom: 1px solid #444444;
-    padding: 10px;
-  }
-</style>
+
 
 ## Educations
 <table>
-  
+  <style>
+  table {
+      width: 100%;
+      border-top: 1px solid #444444;
+      border-collapse: collapse;
+    }
+    th, td {
+      border-bottom: 1px solid #444444;
+      padding: 10px;
+    }
+  </style>
   <tr valign="top">
     <td>
       <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;">
