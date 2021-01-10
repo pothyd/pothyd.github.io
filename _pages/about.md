@@ -4,7 +4,7 @@ permalink: /about/
 date: 2020-02-07T12:00:00+09:00
 ---
 
-<a href="pothyd.github.io/assets/cv/Curriculum_Vitae.pdf" target="_blank">PDF.</a>
+<a href="https://pothyd.github.io/assets/cv/Curriculum_Vitae.pdf" target="_blank">PDF.</a>
 
 ## Educations
 <table>
