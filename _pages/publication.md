@@ -5,7 +5,7 @@ date: 2021-01-11T12:00:00+09:00
 ---
 
 ## 2021
-<div style= "font-size: 0.6em">
+<div style= "font-size: 0.8em">
   [1] O.-H. Kwon, I. Hong, J. Yang, D. Y. Wohn, W.-S. Jung, and M. Cha, "Urban green space and happiness in developed countries", <i>arXiv</i> 2101.00807 (2021). 
   <a href="https://arxiv.org/abs/2101.00807" target="_blank">[arXiv]</a><br><br>
   
@@ -13,5 +13,3 @@ date: 2021-01-11T12:00:00+09:00
   <a href="https://link.springer.com/article/10.1007/s40042-020-00051-5" target="_blank">[LINK]</a>
   <a href="https://arxiv.org/abs/2010.06111" target="_blank">[arXiv]</a><br><br>
 </div>
-
-3
