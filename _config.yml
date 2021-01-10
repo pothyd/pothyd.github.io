@@ -113,11 +113,14 @@ author:
     Graduate Student.  
     Dept. of Physics, POSTECH.  
   location         : "Pohang, Republic of Korea"
-  email            : "ohhyun@postech.ac.kr"
+  #email            : "ohhyun@postech.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:ohhyun@postech.ac.kr
+      url: mailto:ohhyun@postech.ac.kr
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/pothyd"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=ugw2C8UAAAAJ"
@@ -127,9 +130,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/pothyd"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
