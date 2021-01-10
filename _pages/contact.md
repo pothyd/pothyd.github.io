@@ -15,8 +15,8 @@ date: 2021-01-11T12:00:00+09:00
   
   <tr valign="top">
     <td>
-      <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;color: #9D9873;">
-        Email<br>&nbsp;
+      <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;color: #FFFFFF;">
+        Email
       </span>
     </td>  
     <td>
@@ -29,8 +29,8 @@ date: 2021-01-11T12:00:00+09:00
   
   <tr valign="top">
     <td>
-      <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;color: #9D9873;">
-        Office;
+      <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;color: #FFFFFF;">
+        Office
       </span>
     </td>  
     <td>
