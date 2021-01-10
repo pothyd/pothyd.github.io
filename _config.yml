@@ -118,9 +118,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:ohhyun@postech.ac.kr
-    - label: "Website"
+    - label: "Scholar"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://scholar.google.com/citations?user=ugw2C8UAAAAJ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
