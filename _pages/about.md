@@ -49,5 +49,7 @@ date: 2021-01-11T12:00:00+09:00
   </tr>
 </table>
 
-<a href="https://pothyd.github.io/assets/cv/Curriculum_Vitae.pdf" target="_blank">CV</a>
+<span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;">
+<a href="https://pothyd.github.io/assets/cv/Curriculum_Vitae.pdf" target="_blank">CV</a><br>
 (Updated on 2021.01.11)
+ </span>
