@@ -1,9 +1,11 @@
 # main links links
 main:
-  - title: "Posts"
-    url: /categories/
+#  - title: "Posts"
+#    url: /categories/
   - title: "About"
     url: /about/
+  - title: "Publications"
+    url: /publication/
   - title: "Contacts"
     url: /contact/
 #  - title: "Sitemap"
