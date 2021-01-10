@@ -78,3 +78,31 @@ date: 2020-02-07T12:00:00+09:00
     </td>
   </tr>
 </table>
+
+## Visiting Experiences
+<table>
+  <tr valign="top">
+    <td>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>  
+    <td>
+    </td>
+  </tr>
+  
+  <tr valign="top">
+    <td>
+      <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;color: #9D9873;">
+        Feb. 2020<br>&nbsp;<br>&nbsp;<br>&nbsp;
+      </span>
+    </td>  
+    <td>
+      <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;">
+        Institute for Basic Science, Republic of Korea<br>
+      </span>
+      <span style= "font: 1.5em/1em;">
+        Data Science Group (Cheif Investigator: Meeyoung Cha<br>
+      </span>
+    </td>
+  </tr>
+</table>
