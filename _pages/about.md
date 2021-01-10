@@ -10,6 +10,11 @@ date: 2021-01-11T12:00:00+09:00
 <table>  
   <tr valign="top">
     <td>
+    </td>
+  </tr>
+ 
+  <tr valign="top">
+    <td>
       <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;">
         2019 - Present<br>&nbsp;<br>&nbsp;
       </span>
@@ -24,10 +29,7 @@ date: 2021-01-11T12:00:00+09:00
       </span>
     </td>
   </tr>
-  
-  <tr>
-    <td class="divider"><hr /></td>
-  </tr>
+ 
   
   <tr valign="top">
     <td>
