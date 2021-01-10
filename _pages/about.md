@@ -93,7 +93,7 @@ date: 2020-02-07T12:00:00+09:00
   <tr valign="top">
     <td>
       <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;color: #9D9873;">
-        Feb. 2020<br>&nbsp;<br>&nbsp;<br>&nbsp;
+        Feb. 2020<br>&nbsp;
       </span>
     </td>  
     <td>
@@ -121,7 +121,7 @@ date: 2020-02-07T12:00:00+09:00
   <tr valign="top">
     <td>
       <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;color: #9D9873;">
-        Aug. 2020<br>&nbsp;<br>&nbsp;<br>&nbsp;
+        Aug. 2020<br>&nbsp;
       </span>
     </td>  
     <td>
