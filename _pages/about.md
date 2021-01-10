@@ -17,7 +17,7 @@ date: 2021-01-11T12:00:00+09:00
   
   <tr valign="top">
     <td>
-      <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;color: #9D9873;">
+      <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;">
         2019 - Present<br>&nbsp;<br>&nbsp;
       </span>
     </td>  
@@ -34,7 +34,7 @@ date: 2021-01-11T12:00:00+09:00
   
   <tr valign="top">
     <td>
-      <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;color: #9D9873;">
+      <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;">
         2015 - 2019<br>&nbsp;
       </span>
     </td>  
