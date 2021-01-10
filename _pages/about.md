@@ -7,17 +7,7 @@ date: 2021-01-11T12:00:00+09:00
 
 
 ## Educations
-<table>
-  <style>
-  table {
-      width: 100%;
-      border-top: 1px solid #000000;
-      border-collapse: collapse;
-    }
-    th, td {
-      border-bottom: 1px solid #000000;
-    }
-  </style>
+<table border=1 frame=hsides rules=rows>
   
   <tr valign="top">
     <td>
