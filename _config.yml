@@ -111,7 +111,8 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |
     Graduate Student.  
-    Dept. of Physics, POSTECH.  
+    Dept. of Physics, POSTECH.
+    
   location         : "Pohang, Republic of Korea"
   #email            : "ohhyun@postech.ac.kr"
   links:
