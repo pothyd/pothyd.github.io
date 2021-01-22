@@ -288,8 +288,8 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: posts
+      path: "_about"
+      type: abount
     values:
       layout: single
       author_profile: true
