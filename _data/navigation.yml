@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "Publications"
     url: /publication/
+  - title: "Presentations"
+    url: /presentation/
   - title: "Contacts"
     url: /contact/
 #  - title: "Sitemap"
