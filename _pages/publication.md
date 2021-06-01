@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 permalink: /publication/
-date: 2021-01-11T12:00:00+09:00
+date: 2021-06-02T12:00:00+09:00
 ---
 
 ## 2021
