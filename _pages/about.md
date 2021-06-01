@@ -22,7 +22,7 @@ date: 2021-01-11T12:00:00+09:00
       </span>
     </td>  
     <td>
-      <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;">
+      <span style= "font-size: 1.1em; line-height: 1.0em;">
         Pohang University of Science and Technology<br>
       </span>
       <span style= "font: 1.5em/1em;">
@@ -40,7 +40,7 @@ date: 2021-01-11T12:00:00+09:00
       </span>
     </td>  
     <td>
-      <span style= "font-weight: bold; font-size: 1.1em; line-height: 1.0em;">
+      <span style= "font-size: 1.1em; line-height: 1.0em;">
         Pohang University of Science and Technology<br>
       </span>
       <span style= "font: 1.5em/1em;">
