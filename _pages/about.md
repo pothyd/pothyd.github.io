@@ -25,7 +25,7 @@ date: 2021-01-11T12:00:00+09:00
       <span style= "font-size: 1.1em; line-height: 1.0em;">
         Pohang University of Science and Technology<br>
       </span>
-      <span style= "font-size: 0.7em; font: 1.5em/1em;">
+      <span style= "font-size: 0.8em; font: 1.5em/1em;">
         Ph.D., Physics (Advisor: Woo-Sung Jung).<br>
         Complexity in Social System Lab.
       </span>
@@ -43,7 +43,7 @@ date: 2021-01-11T12:00:00+09:00
       <span style= "font-size: 1.1em; line-height: 1.0em;">
         Pohang University of Science and Technology<br>
       </span>
-      <span style= "font: 1.5em/1em;">
+      <span style= "font-size: 0.8em; font: 1.5em/1em;">
         B.S., Physics. <br>
       </span>
     </td>
