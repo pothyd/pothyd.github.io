@@ -7,7 +7,10 @@ Human mobility as a measure of urban geography.
 
 ---
 **Publication**
+
+<span class="small"> 
 O.-H. Kwon, I. Hong, W.-S. Jung, and H.-H. Jo, "Multiple gravity laws for human mobility within cities", *EPJ Data Science* **12**, 57 (2023).
+</span>
 
 **Presentation**
 
