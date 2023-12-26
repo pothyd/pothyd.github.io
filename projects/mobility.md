@@ -16,10 +16,10 @@ O.-H. Kwon, I. Hong, W.-S. Jung, and H.-H. Jo, "Multiple gravity laws for human 
 **Presentation**
 
 <span class="small"> 
-[1] O.-H. Kwon, I. Hong, W.-S. Jung, H.-H. Jo, "Multiple gravity laws for human mobility within cities", *Korean Physical Society Spring meeting*, Daejeon, Republic of Korea, Apr. 19-21, 2023. (Oral, in Korean)<br>
-[2] O.-H. Kwon, I. Hong, W.-S. Jung, H.-H. Jo, "Multiple gravity laws for human mobility within cities", *The 15th Asia Pacific Physics Conference*, Online, Aug. 21-26, 2022. (Oral) <br>
-[3] O.-H. Kwon, I. Hong, W.-S. Jung, H.-H. Jo, "Explaining the varying exponent of gravity model on urban landscapes", *Korea Academy of Complexity Studies Conference*, Online, Nov. 6, 2021. (Oral, in Korean)<br>
-[4] O.-H. Kwon, I. Hong, W.-S. Jung, H.-H. Jo, "Explaining the varying exponent of gravity model on urban landscapes", *Korean Physical Society Fall meeting*, Online, Nov. 4-6, 2020. (Poster, in Korean)<br>
+[1] "Multiple gravity laws for human mobility within cities", *Korean Physical Society Spring meeting*, Daejeon, Republic of Korea, Apr. 19-21, 2023. (Oral, in Korean)<br>
+[2] "Multiple gravity laws for human mobility within cities", *The 15th Asia Pacific Physics Conference*, Online, Aug. 21-26, 2022. (Oral) <br>
+[3] "Explaining the varying exponent of gravity model on urban landscapes", *Korea Academy of Complexity Studies Conference*, Online, Nov. 6, 2021. (Oral, in Korean)<br>
+[4] "Explaining the varying exponent of gravity model on urban landscapes", *Korean Physical Society Fall meeting*, Online, Nov. 4-6, 2020. (Poster, in Korean)<br>
 </span>
 
 ---
