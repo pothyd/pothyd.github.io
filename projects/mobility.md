@@ -13,7 +13,7 @@ Urban geography shapes how people move inside the city.
 The gravity model of human mobility has successfully described the deterrence of travels with distance in urban mobility patterns. While a broad spectrum of deterrence was found across different cities, yet it is not empirically clear if movement patterns in a single city could also have a spectrum of distance exponents denoting a varying deterrence depending on the origin and destination regions in the city. By analyzing the travel data in the twelve most populated cities of the United States of America, we empirically find that the distance exponent governing the deterrence of travels significantly varies within a city depending on the traffic volumes of the origin and destination regions. Despite the diverse traffic landscape of the cities analyzed, a common pattern is observed for the distance exponents; the exponent value tends to be higher between regions with larger traffic volumes, while it tends to be lower between regions with smaller traffic volumes. This indicates that our method indeed reveals the hidden diversity of gravity laws that would be overlooked otherwise.
 </span>
 
-![Schematics of the study](/projects/img/gravity_schematics.png "Schematics of the study"){: width="70%"}
+![Schematics of the study](/projects/img/gravity_schematics.png "Schematics of the study"){: width="60%"}
 
 **Publication**
 
@@ -34,10 +34,6 @@ O.-H. Kwon, I. Hong, W.-S. Jung, and H.-H. Jo, "Multiple gravity laws for human 
 
 **Mobility divergence project**
 
-<span class="small">
-
-</span>
-
 **Presentation**
 
 <span class="small"> 
@@ -50,6 +46,6 @@ O.-H. Kwon, I. Hong, W.-S. Jung, and H.-H. Jo, "Multiple gravity laws for human 
 **Data**
 
 <span class="small"> 
-<a href="https://lehd.ces.census.gov/data/">LODES (LEHD Origin-Destination Employment Statistics) data</a><br>
+<a href="https://lehd.ces.census.gov/data/">LODES data</a> provided by US Census Bureau describes the commuting patterns in US cities.<br>
 <a href="https://docs.safegraph.com/docs/">SafeGraph mobility data</a><br>
 </span>
