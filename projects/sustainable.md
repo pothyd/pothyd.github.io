@@ -13,8 +13,6 @@ Sustainable urban system.
 Urban green space is thought to contribute to citizen happiness by promoting physical and mental health. Nevertheless, how urban green space and happiness are related across many countries with different socioeconomic conditions has not been explored. By measuring the urban green space score (UGS) from high-resolution satellite imagery of 90 global cities covering 179,168 km2 and 230 million people in 60 developed countries, we find that the amount of urban green space and GDP are correlated with a nation’s happiness level. More specifically, urban green space and GDP are each individually associated with happiness. Yet, only urban green space is related to happiness in the 30 wealthiest countries, whereas GDP alone can explain happiness in the subsequent 30 countries in terms of wealth. We further show that the relationship between urban green space and happiness is mediated by social support and that GDP moderates this relationship. These findings corroborate the importance of maintaining urban green space as a place for social cohesion to support people’s happiness.
 </span>
 
-# ![Schematics of the study](/projects/img/gravity_schematics.png "Schematics of the study"){: width="60%"}
-
 **Publication**
 
 <span class="small">
