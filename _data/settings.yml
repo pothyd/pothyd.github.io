@@ -15,9 +15,9 @@ projects:
 # - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'fab fa-github', link: 'https://github.com/pothyd'}
-- {icon: 'fab fa-linkedin', link: 'https://linkedin.com/in/kwon-oh-hyun-907b22134/'}
-- {icon: 'ai ai-google-scholar-square', link: 'https://scholar.google.com/citations?user=ugw2C8UAAAAJ'}
+- {text: 'Google scholar', icon: 'ai ai-google-scholar-square', link: 'https://scholar.google.com/citations?user=ugw2C8UAAAAJ'}
+- {text: 'Github', icon: 'fab fa-github', link: 'https://github.com/pothyd'}
+- {text: 'LinkedIn', icon: 'fab fa-linkedin', link: 'https://linkedin.com/in/kwon-oh-hyun-907b22134/'}
 
 contacts:
 - {name: 'Oh-Hyun Kwon', title: 'Ph.D. Student', department: 'Physics', institution: 'Pohang University of Science and Technology', institution_address: '77 Cheongam-ro, Pohang, Republic of Korea', email: 'ohhyun@postech.ac.kr', office: 'Room 412, Science Building 4'}
