@@ -14,7 +14,7 @@
       <div class="col-md-6">
         <h4>External links</h4>
         {% for item in site.data.settings.social %}
-          <a href="{{ item.link }}" class="ms-3 fs-5"><i class="{{ item.icon }}"></i> {{ item.text }}</a><br>
+          <a href="{{ item.link }}"><i class="{{ item.icon }}"></i> {{ item.text }}</a><br>
         {% endfor %}
       </div>
     </div>
