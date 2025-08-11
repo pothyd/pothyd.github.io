@@ -24,10 +24,10 @@ O.-H. Kwon, I. Hong, W.-S. Jung, and H.-H. Jo, "Multiple gravity laws for human 
 **Presentation**
 
 <span class="small"> 
-[1] "Multiple gravity laws for human mobility within cities", *Korean Physical Society Spring meeting*, Daejeon, Republic of Korea, Apr. 19-21, 2023. (Oral, in Korean)<br>
+[1] "Multiple gravity laws for human mobility within cities", *Korean Physical Society Spring Meeting*, Daejeon, Republic of Korea, Apr. 19-21, 2023. (Oral)<br>
 [2] "Multiple gravity laws for human mobility within cities", *The 15th Asia Pacific Physics Conference*, Online, Aug. 21-26, 2022. (Oral)<br>
-[3] "Explaining the varying exponent of gravity model on urban landscapes", *Korea Academy of Complexity Studies Conference*, Online, Nov. 6, 2021. (Oral, in Korean)<br>
-[4] "Explaining the varying exponent of gravity model on urban landscapes", *Korean Physical Society Fall meeting*, Online, Nov. 4-6, 2020. (Poster, in Korean)<br>
+[3] "Explaining the varying exponent of gravity model on urban landscapes", *Korea Academy of Complexity Studies Conference*, Online, Nov. 6, 2021. (Oral)<br>
+[4] "Explaining the varying exponent of gravity model on urban landscapes", *Korean Physical Society Fall Meeting*, Online, Nov. 4-6, 2020. (Poster)<br>
 </span>
 
 ---
@@ -37,8 +37,10 @@ O.-H. Kwon, I. Hong, W.-S. Jung, and H.-H. Jo, "Multiple gravity laws for human 
 **Presentation**
 
 <span class="small"> 
-[1] "Mobility divergence as a window to explore local business", *9th International Conference on Computational Social Science*, Copenhagen, Denmark, Jul. 17-20, 2023. (Oral)<br>
-[2] "Urban mobility potential explained by socioeconomic status", *8th International Conference on Computational Social Science*, Chicago, IL, USA, Jul. 19-22, 2022. (Poster)<br>
+[1] "Urban borderland explored by the mobility divergence", *13th International Conference on Complex Networks and their Applications*, Istanbul, Turkey, Dec. 10-12, 2024. (Poster)<br>
+[2] "Urban borderland explored by the mobility divergence", *Korean Physical Society Fall Meeting*, Yeosu, Republic of Korea, Oct. 22-25, 2024. (Poster)<br>
+[3] "Mobility divergence as a window to explore local business", *9th International Conference on Computational Social Science*, Copenhagen, Denmark, Jul. 17-20, 2023. (Oral)<br>
+[4] "Urban mobility potential explained by socioeconomic status", *8th International Conference on Computational Social Science*, Chicago, IL, USA, Jul. 19-22, 2022. (Poster)<br>
 </span>
 
 ---
@@ -46,6 +48,6 @@ O.-H. Kwon, I. Hong, W.-S. Jung, and H.-H. Jo, "Multiple gravity laws for human 
 **Data**
 
 <span class="small"> 
-<a href="https://lehd.ces.census.gov/data/">LODES data</a> provided by US Census Bureau describes the commuting patterns in US cities.<br>
-<a href="https://docs.safegraph.com/docs/">SafeGraph mobility data</a><br>
+<a href="https://lehd.ces.census.gov/data/"><b>LODES data</b></a> provided by US Census Bureau describes the commuting patterns in US cities.<br>
+<a href="https://docs.safegraph.com/docs/"><b>SafeGraph mobility data</b></a><br>
 </span>
