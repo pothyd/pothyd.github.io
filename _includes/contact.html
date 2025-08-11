@@ -12,7 +12,7 @@
       </div>
       <div class="col-md-6">
         {% for item in site.data.settings.social %}
-          <a href="{{ item.link }}" class="ms-3 fs-5"><i class="{{ item.icon }}"></i></a>
+          <a href="{{ item.link }}" class="ms-3 fs-5"><i class="{{ item.icon }}"></i> "{{ item.text }}" </a>
         {% endfor %}
       </div>
     </div>
