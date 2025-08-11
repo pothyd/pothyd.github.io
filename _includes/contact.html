@@ -11,7 +11,7 @@
         <p>Office: {{ contact.office }}</p>
       </div>
       <div class="col-md-6">
-        <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="100%">
+        <a href="{{ contact.github }}" class="ms-3 fs-5"><i class="{{ contact.github }}"></i></a>
       </div>
     </div>
     {% endfor %}
