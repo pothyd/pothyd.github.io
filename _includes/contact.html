@@ -11,7 +11,9 @@
         <p>Office: {{ contact.office }}</p>
       </div>
       <div class="col-md-6">
-        <a href="{{ contact.github }}" class="ms-3 fs-5"><i class="{{ contact.github }}"></i></a>
+        {% for item in site.data.settings.social %}
+          <a href="{{ item.link }}" class="ms-3 fs-5"><i class="{{ item.icon }}"></i></a>
+        {% endfor %}
       </div>
     </div>
     {% endfor %}
