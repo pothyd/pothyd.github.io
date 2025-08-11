@@ -5,10 +5,10 @@
       <div class="col-md-6">
         {% for contact in site.data.settings.contacts %}
           <h4>{{ contact.name }}</h4>
-          {{ contact.title }} | {{ contact.department }}
-          {{ contact.institution }}
-          Office: {{ contact.office }}
-          Email: {{ contact.email }}
+          {{ contact.title }} | {{ contact.department }}<br>
+          {{ contact.institution }}<br>
+          Office: {{ contact.office }}<br><br>
+          Email: {{ contact.email }}<br>
         {% endfor %}
       </div>
       <div class="col-md-6">
