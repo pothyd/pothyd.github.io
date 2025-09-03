@@ -20,4 +20,4 @@ social:
 - {text: 'LinkedIn', icon: 'fab fa-linkedin', link: 'https://linkedin.com/in/kwon-oh-hyun-907b22134/'}
 
 contacts:
-- {name: 'Oh-Hyun Kwon', title: 'Ph.D. Student', department: 'Physics', institution: 'Pohang University of Science and Technology', institution_address: '77 Cheongam-ro, Pohang, Republic of Korea', email: 'ohhyun@postech.ac.kr', office: 'Room 412, Science Building 4'}
+- {name: 'Oh-Hyun Kwon', title: 'Postdoctoral researcher', department: 'School of Digital Humanities and Computational Social Science', institution: 'Korea Advanced Institute of Science and Technology', institution_address: '291 Daehak-ro, Daejeon, Republic of Korea', email: 'ohhyun@kaist.ac.kr'}
