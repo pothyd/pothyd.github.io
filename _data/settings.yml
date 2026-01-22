@@ -20,4 +20,4 @@ social:
 - {text: 'LinkedIn', icon: 'fab fa-linkedin', link: 'https://linkedin.com/in/kwon-oh-hyun-907b22134/'}
 
 contacts:
-- {name: 'Oh-Hyun Kwon', title: 'Postdoctoral researcher', department: 'School of Digital Humanities and Computational Social Science', institution: 'Korea Advanced Institute of Science and Technology', institution_address: '291 Daehak-ro, Daejeon, Republic of Korea', email: 'ohhyun@kaist.ac.kr'}
+- {name: 'Oh-Hyun Kwon', title: 'Senior researcher', department: 'Institute for Future Strategy', institution: 'Seoul National University', institution_address: '1 Gwanak-ro, Seoul, Republic of Korea', email: 'ohhyun@snu.ac.kr'}
