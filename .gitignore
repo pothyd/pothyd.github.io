@@ -1,0 +1,13 @@
+# Jekyll 빌드 산출물
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Bundler
+.bundle/
+vendor/
+Gemfile.lock
+
+# macOS
+.DS_Store
