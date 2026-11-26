@@ -20,4 +20,4 @@ social:
 - {text: 'LinkedIn', icon: 'fab fa-linkedin', link: 'https://linkedin.com/in/kwon-oh-hyun-907b22134/'}
 
 contacts:
-- {name: 'Oh-Hyun Kwon', title: 'Senior researcher', department: 'Institute for Future Strategy', institution: 'Seoul National University', institution_address: '1 Gwanak-ro, Seoul, Republic of Korea', email: 'ohhyun@snu.ac.kr'}
+- {name: 'Oh-Hyun Kwon', title: 'Senior researcher', department: 'Institute for Future Strategy', institution: 'Seoul National University', institution_address: '1 Gwanak-ro, Seoul, Republic of Korea', office: 'Room 421, Wooseok Economics Hall (Bldg. 223)', email: 'ohhyun@snu.ac.kr'}
