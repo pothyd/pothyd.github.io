@@ -37,10 +37,22 @@ O.-H. Kwon, I. Hong, W.-S. Jung, and H.-H. Jo, "Multiple gravity laws for human 
 **Presentation**
 
 <span class="small"> 
-[1] "Urban borderland explored by the mobility divergence", *13th International Conference on Complex Networks and their Applications*, Istanbul, Turkey, Dec. 10-12, 2024. (Poster)<br>
-[2] "Urban borderland explored by the mobility divergence", *Korean Physical Society Fall Meeting*, Yeosu, Republic of Korea, Oct. 22-25, 2024. (Poster)<br>
-[3] "Mobility divergence as a window to explore local business", *9th International Conference on Computational Social Science*, Copenhagen, Denmark, Jul. 17-20, 2023. (Oral)<br>
-[4] "Urban mobility potential explained by socioeconomic status", *8th International Conference on Computational Social Science*, Chicago, IL, USA, Jul. 19-22, 2022. (Poster)<br>
+[1] "Hierarchy of urban local centers from mobility divergence", *12th International Conference on Computational Social Science*, Burlington, USA, Jul. 28-31, 2026. (Poster)<br>
+[2] "Urban borderland explored by the mobility divergence", *13th International Conference on Complex Networks and their Applications*, Istanbul, Turkey, Dec. 10-12, 2024. (Poster)<br>
+[3] "Urban borderland explored by the mobility divergence", *Korean Physical Society Fall Meeting*, Yeosu, Republic of Korea, Oct. 22-25, 2024. (Poster)<br>
+[4] "Mobility divergence as a window to explore local business", *9th International Conference on Computational Social Science*, Copenhagen, Denmark, Jul. 17-20, 2023. (Oral)<br>
+[5] "Urban mobility potential explained by socioeconomic status", *8th International Conference on Computational Social Science*, Chicago, IL, USA, Jul. 19-22, 2022. (Poster)<br>
+</span>
+
+---
+
+**Dividing marketing area from platform business data**
+
+**Presentation**
+
+<span class="small"> 
+[1] "Dividing marketing area from platform business data with network community detection", *Networks 2021*, Online, Jul. 6-11, 2021. (Oral)<br>
+[2] "Dividing marketing area from platform business data with network community detection", *Korea Academy of Complexity Studies Conference*, Online, Nov. 28, 2020. (Oral)<br>
 </span>
 
 ---
